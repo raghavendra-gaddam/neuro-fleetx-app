@@ -1,0 +1,12 @@
+# neuro_app/.gitignore
+# React
+frontend/node_modules/
+frontend/build/
+
+# Spring Boot
+backend/target/
+*.log
+
+# General
+.DS_Store
+.env
